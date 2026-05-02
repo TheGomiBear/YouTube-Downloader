@@ -6,7 +6,9 @@ To be honest, I coded it to use it to download Meowbahh's video that premiered i
 
 # Instructions to set the YouTube Downloader
 
-1. Download Node.JS using links below:
+1. Download the source code of this repository and extract it.
+
+2. Download Node.JS using links below:
 
 [x64](nodejs.org/dist/v25.9.0/node-v25.9.0-x64.msi)
 
@@ -14,9 +16,9 @@ To be honest, I coded it to use it to download Meowbahh's video that premiered i
 
 [ARM64](nodejs.org/dist/v25.9.0/node-v25.9.0-arm64.msi)
 
-2. Download yt-dlp.exe using [this link](github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe)
-
-3. Place yt-dlp.exe file in the folder this tool is located.
+3. Download yt-dlp.exe using [this link](github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe)
+   
+  3.1. Place yt-dlp.exe file in the folder this tool is located.
 
 4. If YouTube isn't supported in your country, then download GoodbyeDPI using [this link](github.com/ValdikSS/GoodbyeDPI/releases/download/0.2.3rc3/goodbyedpi-0.2.3rc3-2.zip)
   
@@ -28,7 +30,7 @@ To be honest, I coded it to use it to download Meowbahh's video that premiered i
 
   4.4. If these servers won't work, then try to use 1_russia_blacklist_YOUTUBE or 1_russia_blacklist_YOUTUBE_ALT
 
-4. And also, do NOT delete yt-dlp.conf file! It's a configuration
+5. And also, do NOT delete yt-dlp.conf file! It's a configuration
 file for yt-dlp. Through it, yt-dlp uses Node.JS, because without it,
 the tool won't work.
 
