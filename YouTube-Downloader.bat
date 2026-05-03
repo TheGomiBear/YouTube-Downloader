@@ -17,7 +17,7 @@ cls
 echo ======================================
 echo YOUTUBE DOWNLOADER BY THEGOMIBEAR V1.1
 echo          Updated: 03.05.2026
-echo You can download videos anywhere now!!
+echo You can download videos anywhere nowww
 echo ======================================
 echo.
 set /p "url=Enter your YouTube URL here: "
