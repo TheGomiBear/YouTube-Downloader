@@ -24,17 +24,7 @@ To be honest, I coded it to use it to download Meowbahh's video that premiered i
    
   3.1. Place yt-dlp.exe file in the folder this tool is located.
 
-4. If YouTube isn't supported in your country, then download GoodbyeDPI using [this link](github.com/ValdikSS/GoodbyeDPI/releases/download/0.2.3rc3/goodbyedpi-0.2.3rc3-2.zip)
-  
-  4.1. Extract the .zip file
-  
-  4.2. Launch the 2_any_country.cmd file.
-  
-  4.3. 2_any_country_dnsredir.cmd is an alternative way.
-
-  4.4. If these servers won't work, then try to use 1_russia_blacklist_YOUTUBE or 1_russia_blacklist_YOUTUBE_ALT
-
-5. And also, do NOT delete yt-dlp.conf file! It's a configuration
+4. And also, do NOT delete yt-dlp.conf file! It's a configuration
 file for yt-dlp. Through it, yt-dlp uses Node.JS, because without it,
 the tool won't work.
 
