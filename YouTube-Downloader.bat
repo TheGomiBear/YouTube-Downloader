@@ -1,5 +1,5 @@
 @echo off
-title YouTube Downloader by TheGomiBear v1.0
+title YouTube Downloader by TheGomiBear v1.1
 setlocal enabledelayedexpansion
 
 :: Check if yt-dlp.exe exists
@@ -15,7 +15,9 @@ if not exist "yt-dlp.exe" (
 :menu
 cls
 echo ======================================
-echo YOUTUBE DOWNLOADER BY THEGOMIBEAR V1.0
+echo YOUTUBE DOWNLOADER BY THEGOMIBEAR V1.1
+echo          Updated: 03.05.2026
+echo  You can download videos anywhere now!
 echo ======================================
 echo.
 set /p "url=Enter your YouTube URL here: "
