@@ -1,3 +1,7 @@
+# Version 1.1!
+
+You don't need to download GoodbyeDPI to use the tool anywhere! That's all (for now).
+
 # YouTube Downloader by TheGomiBear v1.0
 
 A tool I made for fun :P
